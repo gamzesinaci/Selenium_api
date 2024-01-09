@@ -1,0 +1,8 @@
+BASE_URL = "https://www.tobeto.com"
+FIRST_LOGIN_BUTTON = ".border-light"
+EMAIL_NAME = "email"
+PASSWORD_NAME = "password"
+LOGIN_BUTTON_XPATH = "//button[@class='btn btn-primary w-100 mt-6']"
+LOGIN_MESSAGE_CSS = "div[class='toast-body']"
+ERROR_MESSAGE_CSS = "div[class='toast-body']"
+ERROR_MESSAGE_XPATH = "//*[@id='__next']/div/main/section/div/div/div[1]/div/form/p"
